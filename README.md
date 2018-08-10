@@ -22,6 +22,7 @@ The requirements to run this at the moment are sadly very strict:
 ## Wishlist
 
 - Support more RGB keyboards.
+- Support more resolutions.
 - Vertically split keyboard into health and mana.
 - Read up on C++ best practices.
 - Get confirmation from GGG if I'm allowed to continue.
