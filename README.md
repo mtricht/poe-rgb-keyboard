@@ -16,4 +16,5 @@ The requirements to run this at the moment are sadly very strict:
 
 ## Demo
 ![Demo](demo.gif)
+
 [Higher quality GIF](https://gfycat.com/impossibleuniqueatlasmoth)

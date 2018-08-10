@@ -7,7 +7,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "poe-rgb-keyboard", "poe-rgb
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E466E1E8-2717-4F0B-9C20-4FA2488DF7FE}"
 	ProjectSection(SolutionItems) = preProject
-		..\..\..\Downloads\demo.gif = ..\..\..\Downloads\demo.gif
+		demo.gif = demo.gif
 		README.md = README.md
 	EndProjectSection
 EndProject
