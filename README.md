@@ -10,7 +10,7 @@ This is done through checking the RGB color of certain pixels on the screen wher
 The requirements to run this at the moment are sadly very strict:
 
 - You must have a Coolermaster MasterKeys Pro L RGB keyboard.
-- You must play full screen or borderless with a resolution of 1920x1080 on your main monitor.
+- You must play borderless with a resolution of 1920x1080 on your main monitor.
 - Only works on Windows.
 - Might not work properly when you have a very high energy shield. 
 
