@@ -27,3 +27,6 @@ The requirements to run this at the moment are sadly very strict:
 - Read up on C++ best practices.
 - Get confirmation from GGG if I'm allowed to continue.
 - Test with a high energy shield.
+
+## Building
+Make sure to link the Coolermaster's SDK .lib and include the .dll found here: https://makerhub.coolermaster.com/custom-lighting/
