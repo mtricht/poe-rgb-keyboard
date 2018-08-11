@@ -1,8 +1,13 @@
+**UPDATE**
+
+I have confirmed with GGG through email that this is allowed (for now) under the current ToS. Sadly, reading pixels is a pretty bad method of getting values out of a game. As soon as a tooltip or steam notification or anything popups, things get funky real fast.
+
+For this reason I will not be developing this any further. If you meet all the requirements bellow to run this, you can download it [here](https://github.com/swordbeta/poe-rgb-keyboard/releases).
+
 # poe-rgb-keyboard
 This repository is a custom application for the game Path of Exile developed by Grinding Gear Gaming.
 The application syncs the in-game health bar with an RGB keyboard without reading game data.
 This is done through checking the RGB color of certain pixels on the screen where the Path of Exile orb (health bar) is located.
-
 
 **Disclaimer**: I haven't programmed in C++ before and unsure if the game developers allow this. **Use at your own risk.**
 
