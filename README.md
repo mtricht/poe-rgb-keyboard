@@ -14,10 +14,14 @@ The requirements to run this at the moment are sadly very strict:
 - Only works on Windows.
 - Might not work properly when you have a very high energy shield. 
 
-## Demo
+## Demo #1
 ![Demo](demo.gif)
 
 [Higher quality GIF](https://gfycat.com/impossibleuniqueatlasmoth)
+
+## Demo #2
+Now includes experience (top row) and mana (numpad).
+![Demo](demo2.jpg)
 
 ## Wishlist
 
