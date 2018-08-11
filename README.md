@@ -1,6 +1,6 @@
 **UPDATE**
 
-I have confirmed with GGG through email that this is allowed (for now) under the current ToS. Sadly, reading pixels is a pretty bad method of getting values out of a game. As soon as a tooltip or steam notification or anything popups, things get funky real fast.
+I have confirmed with GGG through email that this is allowed (for now) under the current ToS. Sadly, reading pixels is a pretty bad method of getting values out of a game. As soon as a tooltip or steam notification or anything pops up, things can get funky real fast.
 
 For this reason I will not be developing this any further. If you meet all the requirements bellow to run this, you can download it [here](https://github.com/swordbeta/poe-rgb-keyboard/releases).
 
