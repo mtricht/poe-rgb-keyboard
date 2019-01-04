@@ -1,0 +1,20 @@
+plugins {
+    id 'java'
+}
+
+group 'com.swordbeta.exliergb'
+version '0.1'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile group: 'net.sourceforge.tess4j', name: 'tess4j', version: '4.3.0'
+    compile group: 'com.asprise.ocr', name: 'java-ocr-api', version: '[15,)'
+    compile group: 'net.java.dev.jna', name: 'jna', version: '5.1.0'
+    compile group: 'net.java.dev.jna', name: 'jna-platform', version: '5.1.0'
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}
